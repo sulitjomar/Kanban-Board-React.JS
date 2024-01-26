@@ -30,4 +30,4 @@ Include screenshots or GIFs of your Kanban board in action.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-kanban-board.git
+   git clone https://github.com/sulitjomar/Kanban-Board-React.JS.git
